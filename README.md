@@ -21,3 +21,4 @@ open vscode and open the folder so all the 3 files are in project
 click on the run button on the top right corner.
 Interact with the main menu that is displayed as output
 ![image](https://github.com/user-attachments/assets/76a66875-8e60-4419-b0b4-c1d47cc872f6)
+![image](https://github.com/user-attachments/assets/3d68b73c-0d4b-47cc-8167-1f71eb3a3887)
